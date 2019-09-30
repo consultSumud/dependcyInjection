@@ -1,5 +1,15 @@
 # DependcyInjection
 
+/***********************************************************/
+
+This project shows the dependency injection in angular JS , 
+
+This exapmle shows that we can write a common business login into a service class and with the help of depnedncy injection it can be utilised in multiple component.
+I have created one demo service which is getting injected into app component class.
+
+
+/***********************************************************/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
