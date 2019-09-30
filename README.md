@@ -1,4 +1,4 @@
-# DependcyInjection
+# Dependcy Injection In Angular JS
 
 /***********************************************************/
 
