@@ -1,2 +1,0 @@
-# dependcyInjection
-Angular dependency injection
